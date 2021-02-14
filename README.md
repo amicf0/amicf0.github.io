@@ -42,7 +42,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 # Second Markdown text box
   Testing markdown
   1. numbered list 1
-  1. numbered list 2
-    1.1. sub numbered list 2.1
-    1.1. sub numbered list 2.2
+  2. numbered list 2
+    2.1. sub numbered list 2.1
+    2.2. sub numbered list 2.2
     
